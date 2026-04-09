@@ -14,7 +14,7 @@
 
 | Параметр | Значение |
 |---|---|
-| n_estimators | 3000 |
+| n_estimators | 6000 |
 | num_leaves | 127 |
 | max_depth | 8 |
 | learning_rate | 0.03 |
